@@ -115,5 +115,5 @@ All proprietary code, credentials, and sensitive data have been intentionally ex
 ## 👨‍💻 Author
 
 **Blaise Elolo Akpalu**  
-Full-Stack / Front-End Engineer  
+Front-End Engineer / Product-Focused and UI/UX-Driven  
 
